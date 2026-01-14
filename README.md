@@ -1,7 +1,14 @@
-## Hi there 👋
+## Hi there! My name is Julia Durfee.
+I am a current Sophomore at Georgetown Univerisity pursuing a BS in Computer Science. I am currently in an Advanced Programming class as well as a club called Hoya Developers. I am proficient in: 
+* C++
+* Java
+* HTML
+* Javascript
+* CSS
 
+I am currently working on building websites for my portfolio which I hope to publish soon! 
 <!--
-**JuliaDurfee/JuliaDurfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
